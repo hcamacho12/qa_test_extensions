@@ -1,0 +1,1 @@
+hunt.log("tis a response extension")
